@@ -5,15 +5,15 @@
 **E-mail:** *evgeniyadanilovich@gmail.com*  
 **Telegram:** @Evgeniya5555  
 **[Linkedin](https://www.linkedin.com/in/evgeniya-danilovich-989718212/)**  
-**[github](https://github.com/EvgeniyaDanilovich)** 
+**[Github](https://github.com/EvgeniyaDanilovich)** 
 
 ### About Me:
-I am junior HTML developer with 1 year experience in web developent. My experience: creating pet projects and one real project in a team. I'm hardworking: everything I know, I learned myself. Creative, motivated and self-driven.
+I am junior HTML developer with 1 year experience in web development. My experience: creating pet projects and one real project in a team. I'm hardworking: everything I know, I learned myself. Creative, motivated and self-driven.
 
 ### Skills:
 * HTML5 
 * CSS3  (SASS)
-* JavaScript Basics
+* JavaScript 
 * Git, GitHub
 * VS Code
 
